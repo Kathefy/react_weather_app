@@ -1,0 +1,25 @@
+.form {
+  font-size: 20px;
+}
+
+.submitButton {
+  background: #8FCFEA;
+  color: #fff;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+}
+
+.inputField {
+  padding: 10px 0;
+}
+
+.inputField input {
+  border: none;
+  border-bottom: 2px solid #8FCFEA;
+  outline: 0;
+  width: 100%;
+  font-size: 16px;
+}

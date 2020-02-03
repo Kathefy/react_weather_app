@@ -1,9 +1,12 @@
 import React from 'react';
-import './App.css';
+import { LandingPage } from './containers';
+import { Provider } from './context';
 
 function App() {
   return (
-    <div className="App"></div>
+    <Provider>
+      <LandingPage />
+    </Provider>
   );
 }
 

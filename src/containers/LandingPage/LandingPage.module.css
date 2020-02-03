@@ -1,0 +1,20 @@
+.root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.container {
+  width: 100%;
+  max-width: 1150px;
+  margin: 0 auto;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.formContainer {
+  max-width: 500px;
+  margin: 0 auto;
+  border-radius: 20px;
+  border: 2px solid #8FCFEA;
+  padding: 25px;
+}
